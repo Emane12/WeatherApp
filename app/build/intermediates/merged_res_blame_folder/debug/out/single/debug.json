@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/build/intermediates/merged_res/debug/menu_display_message.xml.flat",
+        "source": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/res/menu/display_message.xml"
+    },
+    {
+        "merged": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/build/intermediates/merged_res/debug/menu_main.xml.flat",
+        "source": "/Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/res/menu/main.xml"
+    }
+]

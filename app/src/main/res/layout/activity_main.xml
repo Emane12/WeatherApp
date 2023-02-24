@@ -1,0 +1,90 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:onClick="getWeatherInfo"
+            android:text="@string/button_text"
+            app:layout_constraintBottom_toBottomOf="@+id/edit"
+            app:layout_constraintLeft_toRightOf="@+id/edit" />
+
+        <EditText
+            android:id="@+id/edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:ems="10"
+            android:hint="Enter a city or a zip code"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="10dp"
+            app:layout_constraintBottom_toBottomOf="@+id/tv"
+            app:layout_constraintLeft_toRightOf="@+id/tv" />
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NA"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="50dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <fragment
+          android:id="@+id/map"
+          android:layout_width="match_parent"
+          android:layout_height="300dip"
+          android:name="com.google.android.gms.maps.MapFragment" />
+
+
+
+
+
+<!--  
+  map:cameraBearing="112.5"
+  map:cameraTargetLat="42.314083"
+  map:cameraTargetLng="-71.037929"
+  map:cameraTilt="30"
+  map:cameraZoom="13"
+  map:mapType="normal"
+  map:uiCompass="false"
+  map:uiRotateGestures="true"
+  map:uiScrollGestures="false"
+  map:uiTiltGestures="true"
+  map:uiZoomControls="false"
+  map:uiZoomGestures="true"/>
+-->
+
+</LinearLayout>
+
+

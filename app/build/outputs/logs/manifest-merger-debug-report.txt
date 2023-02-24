@@ -1,0 +1,1059 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/imane/.gradle/caches/transforms-3/5f4262174a975feba34df55b881a8349/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/imane/.gradle/caches/transforms-3/f4de2df226f6eae6f03a5a89fc435e2a/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/imane/.gradle/caches/transforms-3/763fcd2e0284e5e571bdcc51d674f4ec/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/imane/.gradle/caches/transforms-3/520f6f139d387035abbef686caffe6f4/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/imane/.gradle/caches/transforms-3/421253f9f9eeba354da6bf9119a47704/transformed/mediarouter-1.0.0-alpha5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/imane/.gradle/caches/transforms-3/d76f35a08c08216004feed386d7db8d0/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/imane/.gradle/caches/transforms-3/1ba0fa10f7189abefec4792c6901adef/transformed/jetified-play-services-ads-12.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/imane/.gradle/caches/transforms-3/438eb80b14f71a32fa26f2e6e7fcb837/transformed/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/c2eecd265bd303be9929568018224af2/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/imane/.gradle/caches/transforms-3/c425a4c1d8fd2c65fe5ab4011bd027f3/transformed/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/2485459c83765bf6d96ecfea2cb713b9/transformed/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/imane/.gradle/caches/transforms-3/ea2cad0f4000aa33925c3a0740781a22/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecdae3b64fdffd4b94ac6819a1e921f7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/imane/.gradle/caches/transforms-3/858299d523bbea5cc75099b1e448e23e/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/imane/.gradle/caches/transforms-3/68fbf029c2fb8b4957050b0c3e6a4747/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/imane/.gradle/caches/transforms-3/bce648bb6ceda0217fc762f5a9c13e7a/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/imane/.gradle/caches/transforms-3/99e31955edb4035b95bb0b74a526d7f0/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/imane/.gradle/caches/transforms-3/494269522f829562d119cec65bf980cc/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/imane/.gradle/caches/transforms-3/246617e7fa33d42fadf8f9aa0a78e8a5/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/imane/.gradle/caches/transforms-3/9f116178a330826b6a1fbf3e78f92bd7/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/imane/.gradle/caches/transforms-3/8600c068398703513439f265dcf30def/transformed/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/imane/.gradle/caches/transforms-3/9d166265b303329d470336df6c36f94a/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/5afb9e626661595459c196d7c3dde8f7/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/imane/.gradle/caches/transforms-3/2583995c6b32f37b637d91829166416b/transformed/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/imane/.gradle/caches/transforms-3/1ccca7c8bda5ea9a8fd757dd110ea2c6/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/imane/.gradle/caches/transforms-3/57f6ebe16a3120cb7b4c046ebd4f03ec/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/imane/.gradle/caches/transforms-3/0fe2cfbbfd27174811b8be3d5e7c5ea4/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/imane/.gradle/caches/transforms-3/c6542fff1170e40168e40207ebef114c/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/imane/.gradle/caches/transforms-3/0ec75218e8ce6452826157ab5a8a5e5b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/imane/.gradle/caches/transforms-3/dd6e4bcd430d3518f98fb5674ef19da5/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/imane/.gradle/caches/transforms-3/77df0b79c65bf6dddc02cf86d931edbe/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecef2738d2ae96f414f6598dcd6dc0da/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/imane/.gradle/caches/transforms-3/c05dee71269f75d2b6777d76f903fbb1/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/258e2daff63e8fc105e1a5933a115f4b/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/imane/.gradle/caches/transforms-3/613861ce31dc3a574b3f64838ee82a0c/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/imane/.gradle/caches/transforms-3/8e31307ba25031abdbf2cfd819a5b328/transformed/jetified-firebase-database-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/imane/.gradle/caches/transforms-3/0cdbea96e84322d9ea2ea6b4c784f48b/transformed/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/imane/.gradle/caches/transforms-3/eaf4cba5f919f426fa6a521a92b0d675/transformed/jetified-firebase-storage-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2305417fef7d1cbf76ba3daf1e9348df/transformed/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/imane/.gradle/caches/transforms-3/d80f76c70a0296b04ba96d0d16b596fe/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/imane/.gradle/caches/transforms-3/90511544bb7986118bf34b3ae8a0c2ab/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/imane/.gradle/caches/transforms-3/c98d6acc9ba05e00eaf0d5fafb4dcd5f/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/imane/.gradle/caches/transforms-3/c0d9c1ab0e87542ba382db148d96a3af/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/imane/.gradle/caches/transforms-3/ced132bf9fc06842b5819ef6e28ee688/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/imane/.gradle/caches/transforms-3/237d32150d08e1f052c47bae2e36844c/transformed/recyclerview-1.0.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/imane/.gradle/caches/transforms-3/0896e3d0b45cdf89c133e98609f31280/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/imane/.gradle/caches/transforms-3/70c058259436dcd4c71d85461afd1b6a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/imane/.gradle/caches/transforms-3/2825200a1c85191bdb6d1454f6417587/transformed/palette-1.0.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/imane/.gradle/caches/transforms-3/6d6e532017af0c907cd34d38d04e17fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/imane/.gradle/caches/transforms-3/d35f0010fbff61dfb15ae12685344215/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/imane/.gradle/caches/transforms-3/0173ed9dc551c8b1c170efbf05532376/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/imane/.gradle/caches/transforms-3/b04e496035f8c1e2f42c46472bb2ce42/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/8ede10147567c2507cc51ace41c13ea6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/5f1414b854a699ca50f5583d93600df7/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/56d3436542761c87b3a7c38d1c2e3d4f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/imane/.gradle/caches/transforms-3/c0d52683149a4f63c5e66613b9f51e2e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/imane/.gradle/caches/transforms-3/b5bd7b5e069c29284ae9078ede46e4f6/transformed/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/imane/.gradle/caches/transforms-3/9c97282722fb613bc8c5f0fb5711e84a/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/imane/.gradle/caches/transforms-3/08a78bb58e82e932da1f82c2b8b82824/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/imane/.gradle/caches/transforms-3/0a2c06990f10f8bf77c6b2eafaa2d2f7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/5b2b00e982f1215a847329e9d903a511/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/imane/.gradle/caches/transforms-3/76ce4b0e4d2e7286e97250b1cf6504f3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/imane/.gradle/caches/transforms-3/eaa3f5267f86ccd9d2fc448ced2fb27d/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imane/.gradle/caches/transforms-3/75cb0929a6f85c2da435fad4c201e57a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/imane/.gradle/caches/transforms-3/c1a2bad483f0938ab658856dbf3c7f56/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/imane/.gradle/caches/transforms-3/1d20e376c94887dfa0b3a5aa12cd6783/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/imane/.gradle/caches/transforms-3/940f6159f5551d04c5900cf56e10f7a6/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/imane/.gradle/caches/transforms-3/58c33f79541fa64793747c2f03ce017d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/imane/.gradle/caches/transforms-3/47e5272538e67774132afc2512bda737/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/imane/.gradle/caches/transforms-3/7a6baf161ab5d6c31b6f6f5d94e198cf/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/imane/.gradle/caches/transforms-3/d6b2c6310d0da332cb9475defea77305/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/imane/.gradle/caches/transforms-3/6e3c93787fdaaf7e4199472c64252016/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/imane/.gradle/caches/transforms-3/72de0627c0c71c2c0ac6e20b5aa28ba3/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/imane/.gradle/caches/transforms-3/5dc1b0d68d5be8d395af6b357c3240c1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/imane/.gradle/caches/transforms-3/eb3bd80f829817dc46cef00554f9b4ab/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/imane/.gradle/caches/transforms-3/998ecad2e598076d0444e5b886cc28b2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/imane/.gradle/caches/transforms-3/511e2a36f18b29fdf3f425e3962668f8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/imane/.gradle/caches/transforms-3/dad45be7fb3d40cd3f820bd1d6623c5b/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/27249b9997c3f8181751f72db57c6554/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/eee8b9d82c9ae233cea7cc28c860cfde/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/fca2da5d87c0b4779ee517af3043be61/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/01951241fa7aedda3e8e0e16fd4f9ae6/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f297fe993d51ddb05f1820bb6bc0be49/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/09014722b7c121d72a70709681c1c9cc/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/b062909a81628a17431f3be6068b7b94/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ffaab63bf45556dcdbf90978fa88b9ab/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7deff1c2f4b12010b40d1f99e9126043/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4997f9ed7d716cfea445a8910d1e486d/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7f22ad03437a31c7c39fafc3b9a58142/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0d9ae60310e6d800963cd4a70c923169/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8f9cc2e664a644d94dc8ba2a9061eabb/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2709d0f82c33a0822ffafa82a4a25c8c/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8663e7dc5be418096746664423e4f685/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9e385bbb7f6d6ebc5510bd00de05ceef/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6e38d87a0decd2e40c8a7f8318b69f03/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/014ffbb049179fcd2f47443d67c32b1f/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bfb69e2a99f03b08f1dace94a8d3f77d/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9ccd80c43c933bfd3708e3913a5cd05/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6afe1cd5b977488e80e5beabf8111f6e/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0e946b2b00ac6e2911c1677e0c29c411/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9b611d881878c79b21195b146106c409/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c55571d7a128d2e8ffe682ae3f08eec9/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/26bcd9a7ee8fb645d5ad1323f82de8af/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c819bef185cf16555b38bc6a62df5cba/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8515472904166b8bf7e4e927c2fae94f/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9108b26a501832e57889d4941fcf1367/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bc00898ebb141f385cf36a8f71405f4e/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9e5d85579cddd28a20715b2cca9282e/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4c2f105a802b4e730e1dfab584250001/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6edb97a73024ca03c8d6d27c9aafb7b4/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ad467bd1a3be572c819362f9c2f79aea/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/91b8ae1f6ca103c472cbdc925a274520/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8100b68802c4388bf8ff64b0c61e8aac/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/933d8c18504a62307dbed0d76197a6dc/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c13b5b7948947975b9711c3c66fd7161/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e5428562c32bd30d8607863646e0a2f3/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0b6ba6bad0f006f5becc96229f668bfa/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/60cff7ecf12bb669cb643ac941f77ddc/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7cb571616135c4e80e7f41a2770ca09d/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f001284e15d99eb4b9e6c6fd8a61198d/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f05a06161fa9c7eb95d44aa8364b7bfb/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ee0cfa7519c3a56d09735d37d0331c12/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f3e9ee7d974d67d4995e5602df9a0179/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2aa58ce407991ddedbb1fbb25338d15d/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2698424da7e4ab05c894a5cc2e81bb11/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bf90c2eb8edb42a237ab222b94dff0fa/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/316f048728ab1d1900eb8a8921a84fa1/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ef1004479f27b61329e6cd94b416b5c7/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/imane/.gradle/caches/transforms-3/246617e7fa33d42fadf8f9aa0a78e8a5/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/imane/.gradle/caches/transforms-3/246617e7fa33d42fadf8f9aa0a78e8a5/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/5afb9e626661595459c196d7c3dde8f7/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/5afb9e626661595459c196d7c3dde8f7/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/imane/.gradle/caches/transforms-3/613861ce31dc3a574b3f64838ee82a0c/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/imane/.gradle/caches/transforms-3/613861ce31dc3a574b3f64838ee82a0c/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/imane/.gradle/caches/transforms-3/0fe2cfbbfd27174811b8be3d5e7c5ea4/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/imane/.gradle/caches/transforms-3/0fe2cfbbfd27174811b8be3d5e7c5ea4/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:13:22-76
+uses-feature#0x00020000
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:16:5-18:34
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:18:9-32
+application
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:19:5-43:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/imane/.gradle/caches/transforms-3/f4de2df226f6eae6f03a5a89fc435e2a/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/imane/.gradle/caches/transforms-3/f4de2df226f6eae6f03a5a89fc435e2a/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/imane/.gradle/caches/transforms-3/763fcd2e0284e5e571bdcc51d674f4ec/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/imane/.gradle/caches/transforms-3/763fcd2e0284e5e571bdcc51d674f4ec/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/imane/.gradle/caches/transforms-3/520f6f139d387035abbef686caffe6f4/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/imane/.gradle/caches/transforms-3/520f6f139d387035abbef686caffe6f4/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/c2eecd265bd303be9929568018224af2/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/c2eecd265bd303be9929568018224af2/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/imane/.gradle/caches/transforms-3/ea2cad0f4000aa33925c3a0740781a22/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/imane/.gradle/caches/transforms-3/ea2cad0f4000aa33925c3a0740781a22/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecdae3b64fdffd4b94ac6819a1e921f7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecdae3b64fdffd4b94ac6819a1e921f7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/imane/.gradle/caches/transforms-3/858299d523bbea5cc75099b1e448e23e/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/imane/.gradle/caches/transforms-3/858299d523bbea5cc75099b1e448e23e/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/imane/.gradle/caches/transforms-3/68fbf029c2fb8b4957050b0c3e6a4747/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/imane/.gradle/caches/transforms-3/68fbf029c2fb8b4957050b0c3e6a4747/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/imane/.gradle/caches/transforms-3/bce648bb6ceda0217fc762f5a9c13e7a/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/imane/.gradle/caches/transforms-3/bce648bb6ceda0217fc762f5a9c13e7a/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/imane/.gradle/caches/transforms-3/99e31955edb4035b95bb0b74a526d7f0/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/imane/.gradle/caches/transforms-3/99e31955edb4035b95bb0b74a526d7f0/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/imane/.gradle/caches/transforms-3/494269522f829562d119cec65bf980cc/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/imane/.gradle/caches/transforms-3/494269522f829562d119cec65bf980cc/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/imane/.gradle/caches/transforms-3/246617e7fa33d42fadf8f9aa0a78e8a5/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/imane/.gradle/caches/transforms-3/246617e7fa33d42fadf8f9aa0a78e8a5/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/imane/.gradle/caches/transforms-3/9f116178a330826b6a1fbf3e78f92bd7/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/imane/.gradle/caches/transforms-3/9f116178a330826b6a1fbf3e78f92bd7/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/imane/.gradle/caches/transforms-3/9d166265b303329d470336df6c36f94a/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/imane/.gradle/caches/transforms-3/9d166265b303329d470336df6c36f94a/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/5afb9e626661595459c196d7c3dde8f7/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/5afb9e626661595459c196d7c3dde8f7/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/imane/.gradle/caches/transforms-3/1ccca7c8bda5ea9a8fd757dd110ea2c6/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/imane/.gradle/caches/transforms-3/1ccca7c8bda5ea9a8fd757dd110ea2c6/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/imane/.gradle/caches/transforms-3/57f6ebe16a3120cb7b4c046ebd4f03ec/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/imane/.gradle/caches/transforms-3/57f6ebe16a3120cb7b4c046ebd4f03ec/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/imane/.gradle/caches/transforms-3/0fe2cfbbfd27174811b8be3d5e7c5ea4/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/imane/.gradle/caches/transforms-3/0fe2cfbbfd27174811b8be3d5e7c5ea4/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/imane/.gradle/caches/transforms-3/c6542fff1170e40168e40207ebef114c/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/imane/.gradle/caches/transforms-3/c6542fff1170e40168e40207ebef114c/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/imane/.gradle/caches/transforms-3/0ec75218e8ce6452826157ab5a8a5e5b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/imane/.gradle/caches/transforms-3/0ec75218e8ce6452826157ab5a8a5e5b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/imane/.gradle/caches/transforms-3/dd6e4bcd430d3518f98fb5674ef19da5/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/imane/.gradle/caches/transforms-3/dd6e4bcd430d3518f98fb5674ef19da5/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/imane/.gradle/caches/transforms-3/77df0b79c65bf6dddc02cf86d931edbe/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/imane/.gradle/caches/transforms-3/77df0b79c65bf6dddc02cf86d931edbe/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecef2738d2ae96f414f6598dcd6dc0da/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecef2738d2ae96f414f6598dcd6dc0da/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/imane/.gradle/caches/transforms-3/c05dee71269f75d2b6777d76f903fbb1/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/imane/.gradle/caches/transforms-3/c05dee71269f75d2b6777d76f903fbb1/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/258e2daff63e8fc105e1a5933a115f4b/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/258e2daff63e8fc105e1a5933a115f4b/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/imane/.gradle/caches/transforms-3/613861ce31dc3a574b3f64838ee82a0c/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/imane/.gradle/caches/transforms-3/613861ce31dc3a574b3f64838ee82a0c/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/imane/.gradle/caches/transforms-3/d80f76c70a0296b04ba96d0d16b596fe/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/imane/.gradle/caches/transforms-3/d80f76c70a0296b04ba96d0d16b596fe/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/imane/.gradle/caches/transforms-3/90511544bb7986118bf34b3ae8a0c2ab/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/imane/.gradle/caches/transforms-3/90511544bb7986118bf34b3ae8a0c2ab/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/imane/.gradle/caches/transforms-3/c98d6acc9ba05e00eaf0d5fafb4dcd5f/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/imane/.gradle/caches/transforms-3/c98d6acc9ba05e00eaf0d5fafb4dcd5f/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] /Users/imane/.gradle/caches/transforms-3/eaa3f5267f86ccd9d2fc448ced2fb27d/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/imane/.gradle/caches/transforms-3/eaa3f5267f86ccd9d2fc448ced2fb27d/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imane/.gradle/caches/transforms-3/75cb0929a6f85c2da435fad4c201e57a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imane/.gradle/caches/transforms-3/75cb0929a6f85c2da435fad4c201e57a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/27249b9997c3f8181751f72db57c6554/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/27249b9997c3f8181751f72db57c6554/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/eee8b9d82c9ae233cea7cc28c860cfde/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/eee8b9d82c9ae233cea7cc28c860cfde/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/fca2da5d87c0b4779ee517af3043be61/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/fca2da5d87c0b4779ee517af3043be61/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/01951241fa7aedda3e8e0e16fd4f9ae6/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/01951241fa7aedda3e8e0e16fd4f9ae6/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f297fe993d51ddb05f1820bb6bc0be49/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f297fe993d51ddb05f1820bb6bc0be49/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/09014722b7c121d72a70709681c1c9cc/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/09014722b7c121d72a70709681c1c9cc/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/b062909a81628a17431f3be6068b7b94/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/b062909a81628a17431f3be6068b7b94/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ffaab63bf45556dcdbf90978fa88b9ab/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ffaab63bf45556dcdbf90978fa88b9ab/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7deff1c2f4b12010b40d1f99e9126043/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7deff1c2f4b12010b40d1f99e9126043/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4997f9ed7d716cfea445a8910d1e486d/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4997f9ed7d716cfea445a8910d1e486d/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7f22ad03437a31c7c39fafc3b9a58142/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7f22ad03437a31c7c39fafc3b9a58142/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0d9ae60310e6d800963cd4a70c923169/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0d9ae60310e6d800963cd4a70c923169/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8f9cc2e664a644d94dc8ba2a9061eabb/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8f9cc2e664a644d94dc8ba2a9061eabb/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2709d0f82c33a0822ffafa82a4a25c8c/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2709d0f82c33a0822ffafa82a4a25c8c/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8663e7dc5be418096746664423e4f685/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8663e7dc5be418096746664423e4f685/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9e385bbb7f6d6ebc5510bd00de05ceef/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9e385bbb7f6d6ebc5510bd00de05ceef/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6e38d87a0decd2e40c8a7f8318b69f03/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6e38d87a0decd2e40c8a7f8318b69f03/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/014ffbb049179fcd2f47443d67c32b1f/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/014ffbb049179fcd2f47443d67c32b1f/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bfb69e2a99f03b08f1dace94a8d3f77d/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bfb69e2a99f03b08f1dace94a8d3f77d/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9ccd80c43c933bfd3708e3913a5cd05/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9ccd80c43c933bfd3708e3913a5cd05/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6afe1cd5b977488e80e5beabf8111f6e/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6afe1cd5b977488e80e5beabf8111f6e/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0e946b2b00ac6e2911c1677e0c29c411/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0e946b2b00ac6e2911c1677e0c29c411/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9b611d881878c79b21195b146106c409/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9b611d881878c79b21195b146106c409/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c55571d7a128d2e8ffe682ae3f08eec9/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c55571d7a128d2e8ffe682ae3f08eec9/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/26bcd9a7ee8fb645d5ad1323f82de8af/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/26bcd9a7ee8fb645d5ad1323f82de8af/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c819bef185cf16555b38bc6a62df5cba/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c819bef185cf16555b38bc6a62df5cba/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8515472904166b8bf7e4e927c2fae94f/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8515472904166b8bf7e4e927c2fae94f/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9108b26a501832e57889d4941fcf1367/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9108b26a501832e57889d4941fcf1367/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bc00898ebb141f385cf36a8f71405f4e/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bc00898ebb141f385cf36a8f71405f4e/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9e5d85579cddd28a20715b2cca9282e/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9e5d85579cddd28a20715b2cca9282e/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4c2f105a802b4e730e1dfab584250001/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4c2f105a802b4e730e1dfab584250001/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6edb97a73024ca03c8d6d27c9aafb7b4/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6edb97a73024ca03c8d6d27c9aafb7b4/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ad467bd1a3be572c819362f9c2f79aea/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ad467bd1a3be572c819362f9c2f79aea/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/91b8ae1f6ca103c472cbdc925a274520/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/91b8ae1f6ca103c472cbdc925a274520/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8100b68802c4388bf8ff64b0c61e8aac/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8100b68802c4388bf8ff64b0c61e8aac/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/933d8c18504a62307dbed0d76197a6dc/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/933d8c18504a62307dbed0d76197a6dc/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c13b5b7948947975b9711c3c66fd7161/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c13b5b7948947975b9711c3c66fd7161/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e5428562c32bd30d8607863646e0a2f3/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e5428562c32bd30d8607863646e0a2f3/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0b6ba6bad0f006f5becc96229f668bfa/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0b6ba6bad0f006f5becc96229f668bfa/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/60cff7ecf12bb669cb643ac941f77ddc/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/60cff7ecf12bb669cb643ac941f77ddc/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7cb571616135c4e80e7f41a2770ca09d/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7cb571616135c4e80e7f41a2770ca09d/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f001284e15d99eb4b9e6c6fd8a61198d/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f001284e15d99eb4b9e6c6fd8a61198d/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f05a06161fa9c7eb95d44aa8364b7bfb/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f05a06161fa9c7eb95d44aa8364b7bfb/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ee0cfa7519c3a56d09735d37d0331c12/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ee0cfa7519c3a56d09735d37d0331c12/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f3e9ee7d974d67d4995e5602df9a0179/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f3e9ee7d974d67d4995e5602df9a0179/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2aa58ce407991ddedbb1fbb25338d15d/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2aa58ce407991ddedbb1fbb25338d15d/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2698424da7e4ab05c894a5cc2e81bb11/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2698424da7e4ab05c894a5cc2e81bb11/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bf90c2eb8edb42a237ab222b94dff0fa/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bf90c2eb8edb42a237ab222b94dff0fa/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/316f048728ab1d1900eb8a8921a84fa1/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/316f048728ab1d1900eb8a8921a84fa1/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ef1004479f27b61329e6cd94b416b5c7/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ef1004479f27b61329e6cd94b416b5c7/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/imane/.gradle/caches/transforms-3/eaa3f5267f86ccd9d2fc448ced2fb27d/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:23:9-40
+activity#edu.umb.cs443.MainActivity
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:30:27-74
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:34:9-36:15
+	android:value
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:35:13-70
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:34:20-69
+meta-data#com.google.android.gms.version
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:38:9-40:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/imane/.gradle/caches/transforms-3/c98d6acc9ba05e00eaf0d5fafb4dcd5f/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/imane/.gradle/caches/transforms-3/c98d6acc9ba05e00eaf0d5fafb4dcd5f/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:40:13-66
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:39:13-58
+uses-library#org.apache.http.legacy
+ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:42:9-88
+	android:required
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:42:61-85
+	android:name
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml:42:23-60
+uses-sdk
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/imane/.gradle/caches/transforms-3/5f4262174a975feba34df55b881a8349/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/imane/.gradle/caches/transforms-3/5f4262174a975feba34df55b881a8349/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/imane/.gradle/caches/transforms-3/f4de2df226f6eae6f03a5a89fc435e2a/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/imane/.gradle/caches/transforms-3/f4de2df226f6eae6f03a5a89fc435e2a/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/imane/.gradle/caches/transforms-3/763fcd2e0284e5e571bdcc51d674f4ec/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/imane/.gradle/caches/transforms-3/763fcd2e0284e5e571bdcc51d674f4ec/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/imane/.gradle/caches/transforms-3/520f6f139d387035abbef686caffe6f4/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/imane/.gradle/caches/transforms-3/520f6f139d387035abbef686caffe6f4/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/imane/.gradle/caches/transforms-3/421253f9f9eeba354da6bf9119a47704/transformed/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/imane/.gradle/caches/transforms-3/421253f9f9eeba354da6bf9119a47704/transformed/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/imane/.gradle/caches/transforms-3/d76f35a08c08216004feed386d7db8d0/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/imane/.gradle/caches/transforms-3/d76f35a08c08216004feed386d7db8d0/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/imane/.gradle/caches/transforms-3/1ba0fa10f7189abefec4792c6901adef/transformed/jetified-play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/imane/.gradle/caches/transforms-3/1ba0fa10f7189abefec4792c6901adef/transformed/jetified-play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/imane/.gradle/caches/transforms-3/438eb80b14f71a32fa26f2e6e7fcb837/transformed/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/imane/.gradle/caches/transforms-3/438eb80b14f71a32fa26f2e6e7fcb837/transformed/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/c2eecd265bd303be9929568018224af2/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/c2eecd265bd303be9929568018224af2/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/imane/.gradle/caches/transforms-3/c425a4c1d8fd2c65fe5ab4011bd027f3/transformed/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/imane/.gradle/caches/transforms-3/c425a4c1d8fd2c65fe5ab4011bd027f3/transformed/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/2485459c83765bf6d96ecfea2cb713b9/transformed/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/2485459c83765bf6d96ecfea2cb713b9/transformed/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/imane/.gradle/caches/transforms-3/ea2cad0f4000aa33925c3a0740781a22/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/imane/.gradle/caches/transforms-3/ea2cad0f4000aa33925c3a0740781a22/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecdae3b64fdffd4b94ac6819a1e921f7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecdae3b64fdffd4b94ac6819a1e921f7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/imane/.gradle/caches/transforms-3/858299d523bbea5cc75099b1e448e23e/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/imane/.gradle/caches/transforms-3/858299d523bbea5cc75099b1e448e23e/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/imane/.gradle/caches/transforms-3/68fbf029c2fb8b4957050b0c3e6a4747/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/imane/.gradle/caches/transforms-3/68fbf029c2fb8b4957050b0c3e6a4747/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/imane/.gradle/caches/transforms-3/bce648bb6ceda0217fc762f5a9c13e7a/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/imane/.gradle/caches/transforms-3/bce648bb6ceda0217fc762f5a9c13e7a/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/imane/.gradle/caches/transforms-3/99e31955edb4035b95bb0b74a526d7f0/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/imane/.gradle/caches/transforms-3/99e31955edb4035b95bb0b74a526d7f0/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/imane/.gradle/caches/transforms-3/494269522f829562d119cec65bf980cc/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/imane/.gradle/caches/transforms-3/494269522f829562d119cec65bf980cc/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/imane/.gradle/caches/transforms-3/246617e7fa33d42fadf8f9aa0a78e8a5/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/imane/.gradle/caches/transforms-3/246617e7fa33d42fadf8f9aa0a78e8a5/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/imane/.gradle/caches/transforms-3/9f116178a330826b6a1fbf3e78f92bd7/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/imane/.gradle/caches/transforms-3/9f116178a330826b6a1fbf3e78f92bd7/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/imane/.gradle/caches/transforms-3/8600c068398703513439f265dcf30def/transformed/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/imane/.gradle/caches/transforms-3/8600c068398703513439f265dcf30def/transformed/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/imane/.gradle/caches/transforms-3/9d166265b303329d470336df6c36f94a/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/imane/.gradle/caches/transforms-3/9d166265b303329d470336df6c36f94a/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/5afb9e626661595459c196d7c3dde8f7/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/5afb9e626661595459c196d7c3dde8f7/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/imane/.gradle/caches/transforms-3/2583995c6b32f37b637d91829166416b/transformed/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/imane/.gradle/caches/transforms-3/2583995c6b32f37b637d91829166416b/transformed/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/imane/.gradle/caches/transforms-3/1ccca7c8bda5ea9a8fd757dd110ea2c6/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/imane/.gradle/caches/transforms-3/1ccca7c8bda5ea9a8fd757dd110ea2c6/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/imane/.gradle/caches/transforms-3/57f6ebe16a3120cb7b4c046ebd4f03ec/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/imane/.gradle/caches/transforms-3/57f6ebe16a3120cb7b4c046ebd4f03ec/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/imane/.gradle/caches/transforms-3/870ed1dd4de1355a45aaa352ca1d9960/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/imane/.gradle/caches/transforms-3/0fe2cfbbfd27174811b8be3d5e7c5ea4/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/imane/.gradle/caches/transforms-3/0fe2cfbbfd27174811b8be3d5e7c5ea4/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/imane/.gradle/caches/transforms-3/c6542fff1170e40168e40207ebef114c/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/imane/.gradle/caches/transforms-3/c6542fff1170e40168e40207ebef114c/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/imane/.gradle/caches/transforms-3/0ec75218e8ce6452826157ab5a8a5e5b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/imane/.gradle/caches/transforms-3/0ec75218e8ce6452826157ab5a8a5e5b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/imane/.gradle/caches/transforms-3/dd6e4bcd430d3518f98fb5674ef19da5/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/imane/.gradle/caches/transforms-3/dd6e4bcd430d3518f98fb5674ef19da5/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/imane/.gradle/caches/transforms-3/77df0b79c65bf6dddc02cf86d931edbe/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/imane/.gradle/caches/transforms-3/77df0b79c65bf6dddc02cf86d931edbe/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecef2738d2ae96f414f6598dcd6dc0da/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/ecef2738d2ae96f414f6598dcd6dc0da/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/imane/.gradle/caches/transforms-3/c05dee71269f75d2b6777d76f903fbb1/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/imane/.gradle/caches/transforms-3/c05dee71269f75d2b6777d76f903fbb1/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/258e2daff63e8fc105e1a5933a115f4b/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/258e2daff63e8fc105e1a5933a115f4b/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/imane/.gradle/caches/transforms-3/613861ce31dc3a574b3f64838ee82a0c/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/imane/.gradle/caches/transforms-3/613861ce31dc3a574b3f64838ee82a0c/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/imane/.gradle/caches/transforms-3/8e31307ba25031abdbf2cfd819a5b328/transformed/jetified-firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/imane/.gradle/caches/transforms-3/8e31307ba25031abdbf2cfd819a5b328/transformed/jetified-firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/imane/.gradle/caches/transforms-3/0cdbea96e84322d9ea2ea6b4c784f48b/transformed/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/imane/.gradle/caches/transforms-3/0cdbea96e84322d9ea2ea6b4c784f48b/transformed/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/imane/.gradle/caches/transforms-3/eaf4cba5f919f426fa6a521a92b0d675/transformed/jetified-firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/imane/.gradle/caches/transforms-3/eaf4cba5f919f426fa6a521a92b0d675/transformed/jetified-firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2305417fef7d1cbf76ba3daf1e9348df/transformed/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2305417fef7d1cbf76ba3daf1e9348df/transformed/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/imane/.gradle/caches/transforms-3/d80f76c70a0296b04ba96d0d16b596fe/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/imane/.gradle/caches/transforms-3/d80f76c70a0296b04ba96d0d16b596fe/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/imane/.gradle/caches/transforms-3/90511544bb7986118bf34b3ae8a0c2ab/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/imane/.gradle/caches/transforms-3/90511544bb7986118bf34b3ae8a0c2ab/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/imane/.gradle/caches/transforms-3/c98d6acc9ba05e00eaf0d5fafb4dcd5f/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/imane/.gradle/caches/transforms-3/c98d6acc9ba05e00eaf0d5fafb4dcd5f/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/imane/.gradle/caches/transforms-3/c0d9c1ab0e87542ba382db148d96a3af/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/imane/.gradle/caches/transforms-3/c0d9c1ab0e87542ba382db148d96a3af/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/imane/.gradle/caches/transforms-3/ced132bf9fc06842b5819ef6e28ee688/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/imane/.gradle/caches/transforms-3/ced132bf9fc06842b5819ef6e28ee688/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/imane/.gradle/caches/transforms-3/237d32150d08e1f052c47bae2e36844c/transformed/recyclerview-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/imane/.gradle/caches/transforms-3/237d32150d08e1f052c47bae2e36844c/transformed/recyclerview-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/imane/.gradle/caches/transforms-3/0896e3d0b45cdf89c133e98609f31280/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/imane/.gradle/caches/transforms-3/0896e3d0b45cdf89c133e98609f31280/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/imane/.gradle/caches/transforms-3/70c058259436dcd4c71d85461afd1b6a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/imane/.gradle/caches/transforms-3/70c058259436dcd4c71d85461afd1b6a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/imane/.gradle/caches/transforms-3/2825200a1c85191bdb6d1454f6417587/transformed/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/imane/.gradle/caches/transforms-3/2825200a1c85191bdb6d1454f6417587/transformed/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/imane/.gradle/caches/transforms-3/6d6e532017af0c907cd34d38d04e17fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/imane/.gradle/caches/transforms-3/6d6e532017af0c907cd34d38d04e17fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/imane/.gradle/caches/transforms-3/d35f0010fbff61dfb15ae12685344215/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/imane/.gradle/caches/transforms-3/d35f0010fbff61dfb15ae12685344215/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] /Users/imane/.gradle/caches/transforms-3/0173ed9dc551c8b1c170efbf05532376/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/imane/.gradle/caches/transforms-3/0173ed9dc551c8b1c170efbf05532376/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/imane/.gradle/caches/transforms-3/b04e496035f8c1e2f42c46472bb2ce42/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/imane/.gradle/caches/transforms-3/b04e496035f8c1e2f42c46472bb2ce42/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/8ede10147567c2507cc51ace41c13ea6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/8ede10147567c2507cc51ace41c13ea6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/5f1414b854a699ca50f5583d93600df7/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/5f1414b854a699ca50f5583d93600df7/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/56d3436542761c87b3a7c38d1c2e3d4f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/56d3436542761c87b3a7c38d1c2e3d4f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/imane/.gradle/caches/transforms-3/c0d52683149a4f63c5e66613b9f51e2e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/imane/.gradle/caches/transforms-3/c0d52683149a4f63c5e66613b9f51e2e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/imane/.gradle/caches/transforms-3/b5bd7b5e069c29284ae9078ede46e4f6/transformed/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/imane/.gradle/caches/transforms-3/b5bd7b5e069c29284ae9078ede46e4f6/transformed/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/imane/.gradle/caches/transforms-3/9c97282722fb613bc8c5f0fb5711e84a/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/imane/.gradle/caches/transforms-3/9c97282722fb613bc8c5f0fb5711e84a/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/imane/.gradle/caches/transforms-3/08a78bb58e82e932da1f82c2b8b82824/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/imane/.gradle/caches/transforms-3/08a78bb58e82e932da1f82c2b8b82824/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/imane/.gradle/caches/transforms-3/0a2c06990f10f8bf77c6b2eafaa2d2f7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/imane/.gradle/caches/transforms-3/0a2c06990f10f8bf77c6b2eafaa2d2f7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/5b2b00e982f1215a847329e9d903a511/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/imane/.gradle/caches/transforms-3/5b2b00e982f1215a847329e9d903a511/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/imane/.gradle/caches/transforms-3/76ce4b0e4d2e7286e97250b1cf6504f3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/imane/.gradle/caches/transforms-3/76ce4b0e4d2e7286e97250b1cf6504f3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/imane/.gradle/caches/transforms-3/eaa3f5267f86ccd9d2fc448ced2fb27d/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/imane/.gradle/caches/transforms-3/eaa3f5267f86ccd9d2fc448ced2fb27d/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imane/.gradle/caches/transforms-3/75cb0929a6f85c2da435fad4c201e57a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imane/.gradle/caches/transforms-3/75cb0929a6f85c2da435fad4c201e57a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/imane/.gradle/caches/transforms-3/c1a2bad483f0938ab658856dbf3c7f56/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/imane/.gradle/caches/transforms-3/c1a2bad483f0938ab658856dbf3c7f56/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/imane/.gradle/caches/transforms-3/1d20e376c94887dfa0b3a5aa12cd6783/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/imane/.gradle/caches/transforms-3/1d20e376c94887dfa0b3a5aa12cd6783/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/imane/.gradle/caches/transforms-3/940f6159f5551d04c5900cf56e10f7a6/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/imane/.gradle/caches/transforms-3/940f6159f5551d04c5900cf56e10f7a6/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/imane/.gradle/caches/transforms-3/58c33f79541fa64793747c2f03ce017d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/imane/.gradle/caches/transforms-3/58c33f79541fa64793747c2f03ce017d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/imane/.gradle/caches/transforms-3/47e5272538e67774132afc2512bda737/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/imane/.gradle/caches/transforms-3/47e5272538e67774132afc2512bda737/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/imane/.gradle/caches/transforms-3/7a6baf161ab5d6c31b6f6f5d94e198cf/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/imane/.gradle/caches/transforms-3/7a6baf161ab5d6c31b6f6f5d94e198cf/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/imane/.gradle/caches/transforms-3/d6b2c6310d0da332cb9475defea77305/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/imane/.gradle/caches/transforms-3/d6b2c6310d0da332cb9475defea77305/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/imane/.gradle/caches/transforms-3/6e3c93787fdaaf7e4199472c64252016/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/imane/.gradle/caches/transforms-3/6e3c93787fdaaf7e4199472c64252016/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/imane/.gradle/caches/transforms-3/72de0627c0c71c2c0ac6e20b5aa28ba3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/imane/.gradle/caches/transforms-3/72de0627c0c71c2c0ac6e20b5aa28ba3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/imane/.gradle/caches/transforms-3/5dc1b0d68d5be8d395af6b357c3240c1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/imane/.gradle/caches/transforms-3/5dc1b0d68d5be8d395af6b357c3240c1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/imane/.gradle/caches/transforms-3/eb3bd80f829817dc46cef00554f9b4ab/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/imane/.gradle/caches/transforms-3/eb3bd80f829817dc46cef00554f9b4ab/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/imane/.gradle/caches/transforms-3/998ecad2e598076d0444e5b886cc28b2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/imane/.gradle/caches/transforms-3/998ecad2e598076d0444e5b886cc28b2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/imane/.gradle/caches/transforms-3/511e2a36f18b29fdf3f425e3962668f8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/imane/.gradle/caches/transforms-3/511e2a36f18b29fdf3f425e3962668f8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/imane/.gradle/caches/transforms-3/dad45be7fb3d40cd3f820bd1d6623c5b/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/imane/.gradle/caches/transforms-3/dad45be7fb3d40cd3f820bd1d6623c5b/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/27249b9997c3f8181751f72db57c6554/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/27249b9997c3f8181751f72db57c6554/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/eee8b9d82c9ae233cea7cc28c860cfde/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/eee8b9d82c9ae233cea7cc28c860cfde/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/fca2da5d87c0b4779ee517af3043be61/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/fca2da5d87c0b4779ee517af3043be61/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/01951241fa7aedda3e8e0e16fd4f9ae6/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/01951241fa7aedda3e8e0e16fd4f9ae6/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f297fe993d51ddb05f1820bb6bc0be49/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f297fe993d51ddb05f1820bb6bc0be49/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/09014722b7c121d72a70709681c1c9cc/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/09014722b7c121d72a70709681c1c9cc/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/b062909a81628a17431f3be6068b7b94/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/b062909a81628a17431f3be6068b7b94/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ffaab63bf45556dcdbf90978fa88b9ab/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ffaab63bf45556dcdbf90978fa88b9ab/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7deff1c2f4b12010b40d1f99e9126043/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7deff1c2f4b12010b40d1f99e9126043/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4997f9ed7d716cfea445a8910d1e486d/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4997f9ed7d716cfea445a8910d1e486d/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7f22ad03437a31c7c39fafc3b9a58142/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7f22ad03437a31c7c39fafc3b9a58142/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0d9ae60310e6d800963cd4a70c923169/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0d9ae60310e6d800963cd4a70c923169/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8f9cc2e664a644d94dc8ba2a9061eabb/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8f9cc2e664a644d94dc8ba2a9061eabb/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2709d0f82c33a0822ffafa82a4a25c8c/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2709d0f82c33a0822ffafa82a4a25c8c/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8663e7dc5be418096746664423e4f685/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8663e7dc5be418096746664423e4f685/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9e385bbb7f6d6ebc5510bd00de05ceef/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9e385bbb7f6d6ebc5510bd00de05ceef/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6e38d87a0decd2e40c8a7f8318b69f03/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6e38d87a0decd2e40c8a7f8318b69f03/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/014ffbb049179fcd2f47443d67c32b1f/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/014ffbb049179fcd2f47443d67c32b1f/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bfb69e2a99f03b08f1dace94a8d3f77d/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bfb69e2a99f03b08f1dace94a8d3f77d/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9ccd80c43c933bfd3708e3913a5cd05/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9ccd80c43c933bfd3708e3913a5cd05/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6afe1cd5b977488e80e5beabf8111f6e/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6afe1cd5b977488e80e5beabf8111f6e/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0e946b2b00ac6e2911c1677e0c29c411/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0e946b2b00ac6e2911c1677e0c29c411/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9b611d881878c79b21195b146106c409/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9b611d881878c79b21195b146106c409/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c55571d7a128d2e8ffe682ae3f08eec9/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c55571d7a128d2e8ffe682ae3f08eec9/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/26bcd9a7ee8fb645d5ad1323f82de8af/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/26bcd9a7ee8fb645d5ad1323f82de8af/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c819bef185cf16555b38bc6a62df5cba/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c819bef185cf16555b38bc6a62df5cba/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8515472904166b8bf7e4e927c2fae94f/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8515472904166b8bf7e4e927c2fae94f/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9108b26a501832e57889d4941fcf1367/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/9108b26a501832e57889d4941fcf1367/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bc00898ebb141f385cf36a8f71405f4e/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bc00898ebb141f385cf36a8f71405f4e/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9e5d85579cddd28a20715b2cca9282e/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e9e5d85579cddd28a20715b2cca9282e/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4c2f105a802b4e730e1dfab584250001/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/4c2f105a802b4e730e1dfab584250001/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6edb97a73024ca03c8d6d27c9aafb7b4/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/6edb97a73024ca03c8d6d27c9aafb7b4/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ad467bd1a3be572c819362f9c2f79aea/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ad467bd1a3be572c819362f9c2f79aea/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/91b8ae1f6ca103c472cbdc925a274520/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/91b8ae1f6ca103c472cbdc925a274520/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8100b68802c4388bf8ff64b0c61e8aac/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/8100b68802c4388bf8ff64b0c61e8aac/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/933d8c18504a62307dbed0d76197a6dc/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/933d8c18504a62307dbed0d76197a6dc/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c13b5b7948947975b9711c3c66fd7161/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/c13b5b7948947975b9711c3c66fd7161/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e5428562c32bd30d8607863646e0a2f3/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/e5428562c32bd30d8607863646e0a2f3/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0b6ba6bad0f006f5becc96229f668bfa/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/0b6ba6bad0f006f5becc96229f668bfa/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/60cff7ecf12bb669cb643ac941f77ddc/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/60cff7ecf12bb669cb643ac941f77ddc/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7cb571616135c4e80e7f41a2770ca09d/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/7cb571616135c4e80e7f41a2770ca09d/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f001284e15d99eb4b9e6c6fd8a61198d/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f001284e15d99eb4b9e6c6fd8a61198d/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f05a06161fa9c7eb95d44aa8364b7bfb/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f05a06161fa9c7eb95d44aa8364b7bfb/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ee0cfa7519c3a56d09735d37d0331c12/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ee0cfa7519c3a56d09735d37d0331c12/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f3e9ee7d974d67d4995e5602df9a0179/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/f3e9ee7d974d67d4995e5602df9a0179/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2aa58ce407991ddedbb1fbb25338d15d/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2aa58ce407991ddedbb1fbb25338d15d/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2698424da7e4ab05c894a5cc2e81bb11/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/2698424da7e4ab05c894a5cc2e81bb11/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bf90c2eb8edb42a237ab222b94dff0fa/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/bf90c2eb8edb42a237ab222b94dff0fa/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/316f048728ab1d1900eb8a8921a84fa1/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/316f048728ab1d1900eb8a8921a84fa1/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ef1004479f27b61329e6cd94b416b5c7/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/imane/.gradle/caches/transforms-3/ef1004479f27b61329e6cd94b416b5c7/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /Users/imane/.gradle/caches/transforms-3/1ba0fa10f7189abefec4792c6901adef/transformed/jetified-play-services-ads-12.0.1/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imane/Desktop/Me-Shoollll/Mobil_App/WeatherApp/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/imane/.gradle/caches/transforms-3/406d2ad6f53d9989985ac097ae036df6/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:11:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/imane/.gradle/caches/transforms-3/73ca4623b50b6599d430c87aadcd5b78/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/8a05892494b0518664af7ad0fb182c5f/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/c211660d2238cb90ce4559cb6c138b53/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/imane/.gradle/caches/transforms-3/b33dd62636c1f5c6c3d31d32e1326455/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/b9202523ce1a0f925e2f14dfde70eead/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/imane/.gradle/caches/transforms-3/a72c62a08a976ac67f9f9d0897c70bc1/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/imane/.gradle/caches/transforms-3/246617e7fa33d42fadf8f9aa0a78e8a5/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/5afb9e626661595459c196d7c3dde8f7/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/5afb9e626661595459c196d7c3dde8f7/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/imane/.gradle/caches/transforms-3/246617e7fa33d42fadf8f9aa0a78e8a5/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/258e2daff63e8fc105e1a5933a115f4b/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/258e2daff63e8fc105e1a5933a115f4b/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/258e2daff63e8fc105e1a5933a115f4b/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/imane/.gradle/caches/transforms-3/258e2daff63e8fc105e1a5933a115f4b/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/imane/.gradle/caches/transforms-3/c21e0c6e7fe15f3ca2604ce8210dd5a6/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.edu.umb.cs443
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/imane/.gradle/caches/transforms-3/925bf1ed4e9c6c7f40f3d881a9cd2d73/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/imane/.gradle/caches/transforms-3/54fc4f5d2bac30f5c171970df30cd636/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/imane/.gradle/caches/transforms-3/f10f7e0ea048f7ee98fecf1c41309498/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+permission#edu.umb.cs443.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+uses-permission#edu.umb.cs443.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:edu.umb.cs443
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+category#edu.umb.cs443
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/imane/.gradle/caches/transforms-3/0aef90b39d1b326e8dafe3df74f8742d/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/imane/.gradle/caches/transforms-3/2afe6d4931566c496be8a081a8862036/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:9:13-77
