@@ -11,4 +11,4 @@ This app fetches weather information whenever a uset enters a city name or a zip
 
 
 
-API: https://home.openweathermap.org/myservices
+- API: https://home.openweathermap.org/myservices
